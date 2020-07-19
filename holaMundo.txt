@@ -1,0 +1,6 @@
+Este es mi primer repositorio
+    git init 
+    git add .   ó git add "nomre del archivo"
+    git commit -m "inicio de proyeto"
+    git remote add origin https://github.com/irvinpinedaUCA/Mi-primer-repositorio.git
+    git push -u origin master
