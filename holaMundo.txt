@@ -4,3 +4,5 @@ Este es mi primer repositorio
     git commit -m "inicio de proyeto"
     git remote add origin https://github.com/irvinpinedaUCA/Mi-primer-repositorio.git
     git push -u origin master
+
+    git pull origin master
