@@ -5,6 +5,11 @@
     git remote add origin https://github.com/irvinpinedaUCA/Mi-primer-repositorio.git
     git push -u origin master
 
+<<<<<<< HEAD
     Nestor escribio:
     git pull es para halar el repositorio. :D
     git status para saber el estado del repo.
+    Vivan las pupusas de queso con loroco.
+=======
+    git pull origin master
+>>>>>>> 1ecde1794b647757e162869e13284815fb6f1728
